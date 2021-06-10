@@ -1,0 +1,74 @@
+<style >
+		.diva{
+			background-color: powderblue;
+			height:30px;
+			color: black;
+		}
+				
+
+				.divb{
+			background-color:darkblue;
+			height:180px;
+			 color: white;
+			 font-style: oblique;
+			 font-size: 20px;
+			}
+
+			.divb h1{
+				margin-top: 10px;
+				text-align: center;
+				margin-left: 2px;
+				float: right;
+				margin-right: 30%;
+				padding-top: 40px;
+
+
+			}
+				.divc{
+			
+		
+			background-color:yellow;
+			height:10px;
+		
+
+		}		
+
+		.divd{
+			background-color:white;
+			height:900px;
+			background-image: url(water.gif);
+			background-position: center;
+			background-size: cover;
+		}
+			.divd h1{
+				font-size: 70px;
+			text-shadow: 12px 12ox;
+			color: white;
+			text-align: center;
+			margin-top: 20px;
+		}	
+
+
+			.dive{
+
+			background-color:gainsboro;
+			height:40px;
+		}	
+
+			.divf{
+			background-color:whitesmoke;
+			height:1200px;
+		}	
+			.divf img
+			{
+           height: 200px;
+           width: 200px;
+			}
+
+		.divg{
+			background-color: forestgreen;
+			height:70px;
+			color: white;
+		}	
+
+	</style>
